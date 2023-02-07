@@ -1,0 +1,7 @@
+This is line 1 in this file
+
+Added line 2 while in hotfix branch
+
+Thanks
+
+Added one more line.
