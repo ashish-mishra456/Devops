@@ -4,4 +4,6 @@ Added line 2 while in hotfix branch
 
 Thanks
 
-Added one more line.
+Added one more line
+
+Added another line while in Master Branch!.
